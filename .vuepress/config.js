@@ -10,5 +10,11 @@ module.exports = {
             disableThemeIgnore: true,
             disableDarkTheme: false,
         }
+    },
+    plugins: {
+        '@vuepress/pwa': {
+            serviceWorker: true,
+            updatePopup: true
+        }
     }
 }
