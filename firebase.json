@@ -1,0 +1,13 @@
+{
+    "hosting": [
+        {
+            "target": "flux",
+            "public": ".vuepress/dist",
+            "ignore": [
+                "firebase.json",
+                "**/.*",
+                "**/node_modules/**"
+            ]
+        }
+    ]
+}
