@@ -1,0 +1,14 @@
+{
+    "name": "flux-docs",
+    "version": "0.0.1",
+    "description": "Documentation for Flux Core - A Drag and Drop Visual Scripting System",
+    "repository": "git@github.com:RayBenefield/flux-docs.git",
+    "author": "Raymond Benefield <raymond.benefield@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "build": "vuepress build"
+    },
+    "dependencies": {
+        "vuepress": "^1.8.2"
+    }
+}
