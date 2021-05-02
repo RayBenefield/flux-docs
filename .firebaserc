@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "raybenefield-portfolio"
+  },
+  "targets": {
+    "raybenefield-portfolio": {
+      "hosting": {
+        "flux": [
+          "flux-scripting"
+        ]
+      }
+    }
+  }
+}
