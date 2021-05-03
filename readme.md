@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo-color.svg
+heroImage: /images/logo-color.svg
 heroText: Flux
 tagline: Visual Scripting System
 actionText: Get Started →
